@@ -1,0 +1,13 @@
+unnamed package
+Game
+Game.HandlerVerification
+GameBoard
+GameBoard.Interfaces
+GameBoard.Maps
+GameBoard.MapsFactories
+GameCharacters
+GameCharacters.CharacterFactories
+GameCharacters.Characters
+GameObstacles
+GameObstacles.Obstacles
+GameObstacles.ObstaclesFactories
